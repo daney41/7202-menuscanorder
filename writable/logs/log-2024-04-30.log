@@ -1,0 +1,1658 @@
+INFO - 2024-04-30 01:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 01:57:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 01:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 01:57:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 01:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 01:58:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 02:03:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 02:03:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 02:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 02:03:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 02:10:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 02:10:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 03:50:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 03:50:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 03:50:53 --> ErrorException: Undefined array key "tbale_id"
+[Method: GET, Route: menu/1]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "tbale_id"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(84): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 03:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 03:51:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 03:51:07 --> ErrorException: Undefined array key "status"
+[Method: GET, Route: menu/1]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "status"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(84): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:05:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:05:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:05:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:05:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 04:05:25 --> ErrorException: Undefined array key "status"
+[Method: GET, Route: menu/1]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "status"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(84): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:09:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:09:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 04:09:10 --> ErrorException: Undefined array key "status"
+[Method: GET, Route: menu/1]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "status"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(84): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:09:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:09:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 04:12:34 --> ErrorException: Undefined array key "status"
+[Method: GET, Route: menu/1]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "status"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(84): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:12:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:12:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 04:12:42 --> ErrorException: Undefined array key "status"
+[Method: GET, Route: menu/1]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "status"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(84): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:12:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:12:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:12:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:12:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 04:12:47 --> ErrorException: Undefined array key "status"
+[Method: GET, Route: menu/1]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "status"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(84): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:12:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:12:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 04:21:22 --> ErrorException: Undefined array key "status"
+[Method: GET, Route: menu/1]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "status"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(84): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:21:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:27:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:28:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:28:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 04:41:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 04:41:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:21:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:21:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:21:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:25:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:25:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:26:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:26:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:26:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:31:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:31:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:31:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:31:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:31:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:33:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:35:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:35:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:35:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:35:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:35:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:36:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:36:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:36:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:36:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:36:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:36:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:36:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:36:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:37:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:48:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:48:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:55:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 12:55:45 --> ErrorException: Undefined array key "TableID"
+[Method: GET, Route: menu/2]
+in APPPATH/Controllers/MenuController.php on line 81.
+ 1 APPPATH/Controllers/MenuController.php(81): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "TableID"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Controllers/MenuController.php', 81)
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('2')
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:56:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:56:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:56:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 12:58:32 --> ErrorException: Undefined variable $data
+[Method: GET, Route: menu/2]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(88): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('2')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:58:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 12:58:43 --> ErrorException: Undefined array key "table_id"
+[Method: GET, Route: menu/2]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_id"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(88): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('2')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 12:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 12:58:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 13:06:28 --> ErrorException: Undefined array key "table_id"
+[Method: GET, Route: menu/2]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_id"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(88): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('2')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 13:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 13:13:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 13:14:04 --> ErrorException: Undefined variable $ordersByTable
+[Method: GET, Route: menu/2]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ordersByTable', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(83): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('2')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 13:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 13:18:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 13:18:15 --> ErrorException: Undefined variable $ordersByTable
+[Method: GET, Route: menu/2]
+in APPPATH/Views/menu_view.php on line 84.
+ 1 APPPATH/Views/menu_view.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $ordersByTable', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php', 84)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/menu_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('menu_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(83): view('menu_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->menu('2')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 13:20:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 13:20:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 13:20:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 13:20:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 13:20:49 --> ErrorException: Undefined variable $menu
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 7.
+ 1 APPPATH/Views/order_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $menu', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 7)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(154): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 13:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 13:21:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 13:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 13:21:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 13:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 13:21:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:02:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:02:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:02:46 --> BadMethodCallException: Call to undefined method App\Models\TablesModel::getCompleteOrderDetails
+[Method: GET, Route: menu/orders/1]
+in SYSTEMPATH/Model.php on line 921.
+ 1 APPPATH/Controllers/MenuController.php(137): CodeIgniter\Model->__call('getCompleteOrderDetails', [...])
+ 2 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 3 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 4 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 8 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:02:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:02:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:03:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:03:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:03:23 --> ErrorException: Undefined array key "menu_name"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 7.
+ 1 APPPATH/Views/order_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "menu_name"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 7)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:03:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:13:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:21:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:21:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:21:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:21:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+ERROR - 2024-04-30 14:21:55 --> mysqli_sql_exception: Unknown column 'Dishes.table_id' in 'on clause' in /Users/Danny/Desktop/Danny/menuscanorder/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php:308
+Stack trace:
+#0 /Users/Danny/Desktop/Danny/menuscanorder/vendor/codeigniter4/framework/system/Database/MySQLi/Connection.php(308): mysqli->query('SELECT `Orders`...', 0)
+#1 /Users/Danny/Desktop/Danny/menuscanorder/vendor/codeigniter4/framework/system/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `Orders`...')
+#2 /Users/Danny/Desktop/Danny/menuscanorder/vendor/codeigniter4/framework/system/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `Orders`...')
+#3 /Users/Danny/Desktop/Danny/menuscanorder/vendor/codeigniter4/framework/system/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `Orders`...', Array, false)
+#4 /Users/Danny/Desktop/Danny/menuscanorder/app/Models/OrdersModel.php(36): CodeIgniter\Database\BaseBuilder->get()
+#5 /Users/Danny/Desktop/Danny/menuscanorder/app/Controllers/MenuController.php(137): App\Models\OrdersModel->getCompleteOrderDetails('1')
+#6 /Users/Danny/Desktop/Danny/menuscanorder/vendor/codeigniter4/framework/system/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+#7 /Users/Danny/Desktop/Danny/menuscanorder/vendor/codeigniter4/framework/system/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+#8 /Users/Danny/Desktop/Danny/menuscanorder/vendor/codeigniter4/framework/system/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 /Users/Danny/Desktop/Danny/menuscanorder/vendor/codeigniter4/framework/system/Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 /Users/Danny/Desktop/Danny/menuscanorder/vendor/codeigniter4/framework/system/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 /Users/Danny/Desktop/Danny/menuscanorder/public/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 /Users/Danny/Desktop/Danny/menuscanorder/vendor/codeigniter4/framework/system/Commands/Server/rewrite.php(49): require_once('/Users/Danny/De...')
+#13 {main}
+CRITICAL - 2024-04-30 14:21:55 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'Dishes.table_id' in 'on clause'
+[Method: GET, Route: menu/orders/1]
+in SYSTEMPATH/Database/BaseConnection.php on line 676.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `Orders`.`user_id`, `Orders`.`order_id`, `Orders`.`total_price`, `Orders`.`status`, `Tables`.`table_name`, `Dishes`.`dish_id`, `Dishes`.`dish_name`, `Dishes`.`price`, `Dishes`.`milk_choose`, `Customizations`.`customization_id`, `Customizations`.`customization`
+FROM `Orders`
+INNER JOIN `OrderDetails` ON `Orders`.`order_id` = `OrderDetails`.`order_id`
+INNER JOIN `Tables` ON `Orders`.`table_id` = `Dishes`.`table_id`
+INNER JOIN `Dishes` ON `OrderDetails`.`dish_id` = `Dishes`.`dish_id`
+LEFT JOIN `Customizations` ON `OrderDetails`.`customization_id` = `Customizations`.`customization_id`
+WHERE `Orders`.`table_id` = :Orders.table_id:', [...], false)
+ 2 APPPATH/Models/OrdersModel.php(36): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH/Controllers/MenuController.php(137): App\Models\OrdersModel->getCompleteOrderDetails('1')
+ 4 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 5 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 6 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+10 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:21:55 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'Dishes.table_id' in 'on clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 313.
+ 1 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `Orders`.`user_id`, `Orders`.`order_id`, `Orders`.`total_price`, `Orders`.`status`, `Tables`.`table_name`, `Dishes`.`dish_id`, `Dishes`.`dish_name`, `Dishes`.`price`, `Dishes`.`milk_choose`, `Customizations`.`customization_id`, `Customizations`.`customization`
+FROM `Orders`
+INNER JOIN `OrderDetails` ON `Orders`.`order_id` = `OrderDetails`.`order_id`
+INNER JOIN `Tables` ON `Orders`.`table_id` = `Dishes`.`table_id`
+INNER JOIN `Dishes` ON `OrderDetails`.`dish_id` = `Dishes`.`dish_id`
+LEFT JOIN `Customizations` ON `OrderDetails`.`customization_id` = `Customizations`.`customization_id`
+WHERE `Orders`.`table_id` = \'1\'')
+ 2 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `Orders`.`user_id`, `Orders`.`order_id`, `Orders`.`total_price`, `Orders`.`status`, `Tables`.`table_name`, `Dishes`.`dish_id`, `Dishes`.`dish_name`, `Dishes`.`price`, `Dishes`.`milk_choose`, `Customizations`.`customization_id`, `Customizations`.`customization`
+FROM `Orders`
+INNER JOIN `OrderDetails` ON `Orders`.`order_id` = `OrderDetails`.`order_id`
+INNER JOIN `Tables` ON `Orders`.`table_id` = `Dishes`.`table_id`
+INNER JOIN `Dishes` ON `OrderDetails`.`dish_id` = `Dishes`.`dish_id`
+LEFT JOIN `Customizations` ON `OrderDetails`.`customization_id` = `Customizations`.`customization_id`
+WHERE `Orders`.`table_id` = \'1\'')
+ 3 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `Orders`.`user_id`, `Orders`.`order_id`, `Orders`.`total_price`, `Orders`.`status`, `Tables`.`table_name`, `Dishes`.`dish_id`, `Dishes`.`dish_name`, `Dishes`.`price`, `Dishes`.`milk_choose`, `Customizations`.`customization_id`, `Customizations`.`customization`
+FROM `Orders`
+INNER JOIN `OrderDetails` ON `Orders`.`order_id` = `OrderDetails`.`order_id`
+INNER JOIN `Tables` ON `Orders`.`table_id` = `Dishes`.`table_id`
+INNER JOIN `Dishes` ON `OrderDetails`.`dish_id` = `Dishes`.`dish_id`
+LEFT JOIN `Customizations` ON `OrderDetails`.`customization_id` = `Customizations`.`customization_id`
+WHERE `Orders`.`table_id` = :Orders.table_id:', [...], false)
+ 4 APPPATH/Models/OrdersModel.php(36): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH/Controllers/MenuController.php(137): App\Models\OrdersModel->getCompleteOrderDetails('1')
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:21:55 --> [Caused by] mysqli_sql_exception: Unknown column 'Dishes.table_id' in 'on clause'
+in SYSTEMPATH/Database/MySQLi/Connection.php on line 308.
+ 1 SYSTEMPATH/Database/MySQLi/Connection.php(308): mysqli->query('SELECT `Orders`.`user_id`, `Orders`.`order_id`, `Orders`.`total_price`, `Orders`.`status`, `Tables`.`table_name`, `Dishes`.`dish_id`, `Dishes`.`dish_name`, `Dishes`.`price`, `Dishes`.`milk_choose`, `Customizations`.`customization_id`, `Customizations`.`customization`
+FROM `Orders`
+INNER JOIN `OrderDetails` ON `Orders`.`order_id` = `OrderDetails`.`order_id`
+INNER JOIN `Tables` ON `Orders`.`table_id` = `Dishes`.`table_id`
+INNER JOIN `Dishes` ON `OrderDetails`.`dish_id` = `Dishes`.`dish_id`
+LEFT JOIN `Customizations` ON `OrderDetails`.`customization_id` = `Customizations`.`customization_id`
+WHERE `Orders`.`table_id` = \'1\'', 0)
+ 2 SYSTEMPATH/Database/BaseConnection.php(722): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `Orders`.`user_id`, `Orders`.`order_id`, `Orders`.`total_price`, `Orders`.`status`, `Tables`.`table_name`, `Dishes`.`dish_id`, `Dishes`.`dish_name`, `Dishes`.`price`, `Dishes`.`milk_choose`, `Customizations`.`customization_id`, `Customizations`.`customization`
+FROM `Orders`
+INNER JOIN `OrderDetails` ON `Orders`.`order_id` = `OrderDetails`.`order_id`
+INNER JOIN `Tables` ON `Orders`.`table_id` = `Dishes`.`table_id`
+INNER JOIN `Dishes` ON `OrderDetails`.`dish_id` = `Dishes`.`dish_id`
+LEFT JOIN `Customizations` ON `OrderDetails`.`customization_id` = `Customizations`.`customization_id`
+WHERE `Orders`.`table_id` = \'1\'')
+ 3 SYSTEMPATH/Database/BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `Orders`.`user_id`, `Orders`.`order_id`, `Orders`.`total_price`, `Orders`.`status`, `Tables`.`table_name`, `Dishes`.`dish_id`, `Dishes`.`dish_name`, `Dishes`.`price`, `Dishes`.`milk_choose`, `Customizations`.`customization_id`, `Customizations`.`customization`
+FROM `Orders`
+INNER JOIN `OrderDetails` ON `Orders`.`order_id` = `OrderDetails`.`order_id`
+INNER JOIN `Tables` ON `Orders`.`table_id` = `Dishes`.`table_id`
+INNER JOIN `Dishes` ON `OrderDetails`.`dish_id` = `Dishes`.`dish_id`
+LEFT JOIN `Customizations` ON `OrderDetails`.`customization_id` = `Customizations`.`customization_id`
+WHERE `Orders`.`table_id` = \'1\'')
+ 4 SYSTEMPATH/Database/BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT `Orders`.`user_id`, `Orders`.`order_id`, `Orders`.`total_price`, `Orders`.`status`, `Tables`.`table_name`, `Dishes`.`dish_id`, `Dishes`.`dish_name`, `Dishes`.`price`, `Dishes`.`milk_choose`, `Customizations`.`customization_id`, `Customizations`.`customization`
+FROM `Orders`
+INNER JOIN `OrderDetails` ON `Orders`.`order_id` = `OrderDetails`.`order_id`
+INNER JOIN `Tables` ON `Orders`.`table_id` = `Dishes`.`table_id`
+INNER JOIN `Dishes` ON `OrderDetails`.`dish_id` = `Dishes`.`dish_id`
+LEFT JOIN `Customizations` ON `OrderDetails`.`customization_id` = `Customizations`.`customization_id`
+WHERE `Orders`.`table_id` = :Orders.table_id:', [...], false)
+ 5 APPPATH/Models/OrdersModel.php(36): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH/Controllers/MenuController.php(137): App\Models\OrdersModel->getCompleteOrderDetails('1')
+ 7 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 8 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 9 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+13 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:22:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:22:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:22:47 --> ErrorException: Undefined array key "table_name"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 7.
+ 1 APPPATH/Views/order_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_name"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 7)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:23:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:23:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:23:33 --> ErrorException: Undefined array key "total_price"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 17.
+ 1 APPPATH/Views/order_view.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_price"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 17)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:27:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:27:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:27:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:27:09 --> ErrorException: Undefined array key "total_price"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 17.
+ 1 APPPATH/Views/order_view.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_price"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 17)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(141): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:27:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:28:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:28:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:28:30 --> ErrorException: Undefined array key "total_price"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 17.
+ 1 APPPATH/Views/order_view.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_price"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 17)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(141): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:29:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:29:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:30:37 --> ErrorException: Undefined array key "total_price"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 17.
+ 1 APPPATH/Views/order_view.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_price"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 17)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(141): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:32:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:32:53 --> ErrorException: Undefined array key "total_price"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 17.
+ 1 APPPATH/Views/order_view.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_price"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 17)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(141): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:33:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:33:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:33:41 --> ErrorException: Undefined array key "total_price"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 17.
+ 1 APPPATH/Views/order_view.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_price"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 17)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(141): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:36:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:36:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:36:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:36:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:36:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:38:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:38:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:38:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:41:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:41:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:41:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:41:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:41:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:41:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:41:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:41:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:41:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:41:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:41:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:41:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:41:37 --> ErrorException: Undefined array key "total_price"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 17.
+ 1 APPPATH/Views/order_view.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_price"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 17)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(141): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:41:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:42:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:42:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:42:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:42:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:42:14 --> ErrorException: Undefined array key "total_price"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 17.
+ 1 APPPATH/Views/order_view.php(17): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "total_price"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 17)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(141): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:43:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:43:27 --> ErrorException: Undefined array key "table_name"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 7.
+ 1 APPPATH/Views/order_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_name"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 7)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:45:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:45:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:45:17 --> ErrorException: Undefined array key "table_name"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 7.
+ 1 APPPATH/Views/order_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_name"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 7)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:46:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:46:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:46:44 --> ErrorException: Undefined array key "table_name"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 7.
+ 1 APPPATH/Views/order_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_name"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 7)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:47:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:47:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:50:22 --> ErrorException: Undefined array key "table_name"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 7.
+ 1 APPPATH/Views/order_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_name"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 7)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:50:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:50:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:51:22 --> ErrorException: Undefined array key "table_name"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 7.
+ 1 APPPATH/Views/order_view.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_name"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 7)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:52:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:52:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 14:53:37 --> ErrorException: Undefined array key "table_name"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 8.
+ 1 APPPATH/Views/order_view.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_name"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 8)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 14:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 14:56:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 15:00:18 --> ErrorException: Undefined array key "table_name"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 8.
+ 1 APPPATH/Views/order_view.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_name"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 8)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 15:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 15:00:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 15:05:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 15:05:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 15:05:06 --> ErrorException: Undefined array key "table_name"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 8.
+ 1 APPPATH/Views/order_view.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_name"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 8)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 15:05:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 15:05:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+CRITICAL - 2024-04-30 15:06:18 --> ErrorException: Undefined array key "table_name"
+[Method: GET, Route: menu/orders/1]
+in APPPATH/Views/order_view.php on line 8.
+ 1 APPPATH/Views/order_view.php(8): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "table_name"', '/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php', 8)
+ 2 SYSTEMPATH/View/View.php(234): include('/Users/Danny/Desktop/Danny/menuscanorder/app/Views/order_view.php')
+ 3 SYSTEMPATH/View/View.php(237): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1171): CodeIgniter\View\View->render('order_view', [], true)
+ 5 APPPATH/Controllers/MenuController.php(140): view('order_view', [...])
+ 6 SYSTEMPATH/CodeIgniter.php(933): App\Controllers\menuController->orders('1')
+ 7 SYSTEMPATH/CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\menuController))
+ 8 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+12 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 15:06:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 15:06:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:51:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:51:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:51:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:51:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:52:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:54:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:54:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:54:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:54:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:54:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:54:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:54:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:54:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:54:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:54:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:54:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:54:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:54:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:54:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:54:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:54:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:54:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:55:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:55:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:55:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:55:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:55:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
+INFO - 2024-04-30 23:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-04-30 23:55:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\menuController::$session is deprecated in APPPATH/Controllers/MenuController.php on line 15.
+ 1 SYSTEMPATH/CodeIgniter.php(903): App\Controllers\menuController->__construct()
+ 2 SYSTEMPATH/CodeIgniter.php(500): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH/CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH/Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH/Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH/index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH/Commands/Server/rewrite.php(49): require_once('/Users/Danny/Desktop/Danny/menuscanorder/public/index.php')
